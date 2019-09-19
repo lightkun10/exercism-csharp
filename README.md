@@ -1,2 +1,2 @@
 "# exercism-csharp" 
-Me taking Exercism.io C#
+* Me taking Exercism.io C#
